@@ -11,7 +11,7 @@
 <td valign="top" width="54%">
 
 
-![ferried's github stats](https://github-readme-stats.yxl76.vercel.app/api?username=eyreD&count_private=true&show_icons=true&theme=tokyonight)
+![ferried's github stats](https://github-readme-stats.yxl76.vercel.app/api?username=daba0007&count_private=true&show_icons=true&theme=tokyonight)
 
 </td>
 
